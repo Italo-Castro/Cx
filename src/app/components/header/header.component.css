@@ -1,0 +1,23 @@
+header {
+    background: #F2A90C;
+    width: 100%;
+    height: 10%;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+.title {
+    font-size: 26px;
+    font-style: italic;
+    margin-top: 0.5%;
+    color: #181818;
+}
+
+.subtitle {
+    margin-top: 0.5%;
+    color: #181818;
+    font-style: italic;
+
+}
